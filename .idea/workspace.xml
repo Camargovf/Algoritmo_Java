@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48ba818a-cc30-4f9d-b5c8-11dc06e5048b" name="Changes" comment="Adicionar exercicios">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algoritmos/exercicios/exercicio06c.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +128,8 @@
       <updated>1667330044076</updated>
       <workItem from="1667330048458" duration="1359000" />
       <workItem from="1667603210480" duration="629000" />
+      <workItem from="1667854590476" duration="827000" />
+      <workItem from="1667908644041" duration="1418000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionar exercicios">
       <created>1667330949525</created>
@@ -155,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667603225831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adicionar exercicios">
+      <created>1667854681085</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667854681085</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adicionar exercicios">
+      <created>1667854772075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667854772075</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
