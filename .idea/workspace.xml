@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48ba818a-cc30-4f9d-b5c8-11dc06e5048b" name="Changes" comment="Adicionar exercicios">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algoritmos/exercicios/exercicio08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algoritmos/exercicios/exercicio09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +131,7 @@
       <workItem from="1667926692354" duration="696000" />
       <workItem from="1668186643472" duration="910000" />
       <workItem from="1668425955383" duration="611000" />
-      <workItem from="1668622769097" duration="352000" />
+      <workItem from="1668622769097" duration="707000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionar exercicios">
       <created>1667330949525</created>
@@ -198,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668186950349</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adicionar exercicios">
+      <created>1668623383284</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668623383284</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
