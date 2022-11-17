@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ba818a-cc30-4f9d-b5c8-11dc06e5048b" name="Changes" comment="Adicionar exercicios">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algoritmos/exercicios/exercicio09.java" afterDir="false" />
-    </list>
+    <list default="true" id="48ba818a-cc30-4f9d-b5c8-11dc06e5048b" name="Changes" comment="Adicionar exercicios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +130,7 @@
       <workItem from="1668186643472" duration="910000" />
       <workItem from="1668425955383" duration="611000" />
       <workItem from="1668622769097" duration="707000" />
+      <workItem from="1668700753111" duration="555000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionar exercicios">
       <created>1667330949525</created>
